@@ -70,8 +70,8 @@ export default defineConfig({
 
   // 头部配置
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/Cloudflare-Navihive/favicon.svg' }],
-    ['link', { rel: 'alternate icon', href: '/Cloudflare-Navihive/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/zxiar/favicon.svg' }],
+    ['link', { rel: 'alternate icon', href: '/zxiar/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#2D6CDF' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'NaviHive 文档' }],
