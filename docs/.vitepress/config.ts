@@ -9,7 +9,7 @@ export default defineConfig({
   description: '现代化个人导航站 - Cloudflare Workers 驱动',
 
   // GitHub Pages 部署路径（仓库名称）
-  base: '/Cloudflare-Navihive/',
+  base: '/Navihive/',
 
   // 语言配置
   locales: {
